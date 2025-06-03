@@ -41,6 +41,8 @@
 
 
 ### 6. Uji Progress Bar
-![Image](https://github.com/user-attachments/assets/eac99817-9d7b-4aa8-87ad-f13132360ef9)
+![Image](https://github.com/user-attachments/assets/6415e2e1-9604-4a5c-936b-fe4df54e05cb)
+![Image](https://github.com/user-attachments/assets/7af8bbef-2598-4a05-a9a6-634ac473613f)
 
 **Keterangan:**  
+
